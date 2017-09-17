@@ -6,7 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
         System.out.print("Hello World");
         //Hello World Example
-	// added in github webconsole	
+	// added in github webconsole
+        //added in eclipse
 	}
 
 }
